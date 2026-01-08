@@ -2,7 +2,7 @@
 
 Ferramenta avançada para detecção de vulnerabilidades Cross-Site Scripting (XSS) com multithreading e lista de payloads customizável.
 
-## 🌟 Features
+## Features
 
 - Teste massivo de payloads XSS pré-definidos
 - Paralelismo com ThreadPoolExecutor (até 20 threads)
@@ -12,7 +12,7 @@ Ferramenta avançada para detecção de vulnerabilidades Cross-Site Scripting (X
 - Geração de relatório automático
 - Configuração modular via variáveis
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - Python 3
 - Bibliotecas:
@@ -21,7 +21,7 @@ Ferramenta avançada para detecção de vulnerabilidades Cross-Site Scripting (X
   - `tqdm` (barra de progresso)
   - `re` (detecção por regex)
 
-## ⚙️ Instalação
+## Instalação
 
 ```bash
 pip install requests tqdm
